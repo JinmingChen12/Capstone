@@ -1,4 +1,4 @@
-Player,POS,Body Fat %,Hand Length(Inches),Hand Width(Inches),Height W/O Shoes,Height W/ Shoes,Standing Reach,Weight(lbs),Wingspan,Draft,Undraft,Pick
+Player,POS,Body_Fat,Hand_Length(Inches),Hand_Width(Inches),Height_WO_Shoes,Height_W_Shoes,Standing_Reach,Weight(lbs),Wingspan,age,Draft,Pick
 Max Abmas,PG,5.50%,8.00,7.75,5'10.5'',5'11.75'',7'10.0'',161.8,6'1.75'',
 Ochai Agbaji,SG,4.15%,9.00,8.75,6'4.5'',6'5.5'',8'7.5'',214.4,6'10.0'',
 Marcus Bagley,SF,7.50%,8.75,8.50,6'6.0'',6'7.75'',8'6.5'',216.8,6'11.0'',
