@@ -1,4 +1,4 @@
-Season,player,pos,body_fat,hand_length,hand_width,height_wo_shoes,height_w_shoes,standing_reach,weight,wingspan,age,draft,pick
+Season,player,pos,body_fat,hand_length,hand_width,height_wo_shoes,height_w_shoes,standing_reach,weight,wingspan,age,draft,pick,conference,conference_strength
 2018-2019,Rawle Alkins,SG,8.90%,8.50,10.00,6' 2.75'',6' 4.25'',8' 3'',217.4,6' 8.75'',20,0,NA
 2018-2019,Grayson Allen,SG,5.55%,8.25,10.00,6' 3'',6' 4.5'',8' 1'',198.0,6' 7.25'',22,1,21
 2018-2019,Kostas Antetokounmpo,PF,5.00%,9.25,9.50,6' 9'',6' 10.5'',9' 2'',194.8,7' 2.25'',1,20
